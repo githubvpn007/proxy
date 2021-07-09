@@ -11,7 +11,7 @@ proxy、proxy server、代理协议、代理服务器、代理协议说明、ss�
 简介
 ----
 
-现在最主流的科学上网技术有[clash/xary/SS/SSR/V2Ray/Trojan/Trojan-Go]()，至于其他的上网方式暂时不做讨论  
+现在最主流的科学上网技术有[clash/xary/SS/SSR/V2Ray/Trojan/Trojan-Go](#1)，至于其他的上网方式暂时不做讨论  
 
 
 相信很多朋友都会有选择困难症，怎么才能让自己稳定快速的上外网呢？？  
@@ -26,4 +26,7 @@ proxy、proxy server、代理协议、代理服务器、代理协议说明、ss�
 |      V2Ray      |        2019下半年             |     Blackhole <br/> Freedom <br/> HTTP <br/> MTProto <br/> Shadowsocks <br/> Socks <br/>VMess       |     1       |         4      |     V2ray比较成熟，自用1年半 支持的配套客户端是最多的，隐秘性良好 长期使用没有断过网    |
 |      Trojan         |         2019年底             |     类似V2ray“WS+TLS”模式的精简版       |      2       |         3      |     相比V2ray，速度更快，更轻量级 相比trojan-go 比较老了，因此排名后面    |
 |      Trojan-Go      |         2020年8月         |   类似V2ray“WS+TLS”模式的精简版    |    3    |      5    |   速度方面次于Xray、隐秘更强，客户端比较单一    |
-|      [Xray]()      |         2020年11月         |   V2ray的升级版（包含V2ray所有协议） VLESS协议    |    4    |      5    |   Xray性能最好、速度更快，隐秘方面也是很不错 更新比较快，支持的客户端也多   |
+|      [Xray](#!)      |         2020年11月         |   V2ray的升级版（包含V2ray所有协议） VLESS协议    |    4    |      5    |   Xray性能最好、速度更快，隐秘方面也是很不错 更新比较快，支持的客户端也多   |
+|      Clash        |         2020 年末            |     支持SS/V2ray/Trojan协议         |       4       |         5           |        功能全面  性能好      |
+
+<br/>
