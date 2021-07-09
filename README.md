@@ -92,6 +92,7 @@ Clash是一个跨平台、支持SS/V2ray/Trojan协议、基于规则的网络代
 
 总结
 ---
-每个工具都能实现代理上网，各个工具都各有所长。根据自己的需求选择合适的工具  
+Shadowsocks/Shadowsocks-R/V2Ray/Trojan/Trojan-Go/Clash  是一个项目，也可以理解是一种协议。有的项目已经有对应的软件支持，有的项目软件支持比较差。有的软件已经支持多种协议。
+比如：v2rayN.exe  是v2ray项目的支持软件，但是现在v2rayN.exe 也支持Trojan的协议了
 
 ## [如果你想下载对应的工具请点击这里](https://github.com/githubvpn007/v2rayNvpn#%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
