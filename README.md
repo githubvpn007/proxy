@@ -92,7 +92,58 @@ Clash是一个跨平台、支持SS/V2ray/Trojan协议、基于规则的网络代
 
 总结
 ---
-Shadowsocks/Shadowsocks-R/V2Ray/Trojan/Trojan-Go/Clash  是一个项目，也可以理解是一种协议。有的项目官方已经开发了对应的软件支持，有的项目软件支持比较差。  
-也有一些软件已经支持多种协议。比如：v2rayN.exe  是v2ray项目的支持软件，但是现在v2rayN.exe 也支持Trojan的协议了
+<!-- wp:paragraph -->
+<p>各项目都有它对应支持的客户端。 有的客户端同时支持多种协议(比如 v2rayN)。Shadowsocks和ShadowsocksR 协议是一种协议 同时它的官方客户端的名字也刚好叫 Shadowsocks和ShadowsocksR ！</p>
+<!-- /wp:paragraph -->
 
-## [如果你想下载对应的工具请点击这里](https://github.com/githubvpn007/v2rayNvpn#%E5%B7%A5%E5%85%B7%E4%B8%8B%E8%BD%BD)
+<!-- wp:paragraph -->
+<p>各种协议支持的客户端请看如下：</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.xiaoglt.top/?p=73">V2Ray客户端全集</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.xiaoglt.top/?p=62#xray-client">Xray客户端</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.xiaoglt.top/?p=134" target="_blank" rel="noreferrer noopener">trojan客户端下载</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.xiaoglt.top/?p=163" target="_blank" rel="noreferrer noopener">trojan-go客户端下载</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.xiaoglt.top/?p=143" target="_blank" rel="noreferrer noopener">Shadowsocks/SS客户端</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.xiaoglt.top/?p=153">ShadowsocksR/SSR客户端</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>这里列出了几乎所有的代理客户端， 大家没有特别的需求的话只需要看 V2Ray客户端全集就可以了。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>windows直接用<strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">V2rayN</mark></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Android直接用<strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">V2rayNG</mark></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mac直接使用<strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">Qv2ray</mark></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>linux直接使用<strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-vivid-red-color">Qv2ray</mark></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>IOS比较特别，具体请看<a href="https://www.xiaoglt.top/?p=138">获取ios科学上网客户端</a>。</p>
+<!-- /wp:paragraph -->
